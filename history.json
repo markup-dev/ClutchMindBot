@@ -1,0 +1,1559 @@
+[
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "csv"
+    },
+    "timestamp": "2025-06-30 01:05:17"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:05:20"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:05:22"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:05:24"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:05:46"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:06:17"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:07:55"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:08:01"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Sa1nTy_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:08:05"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:08:10"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:08:46"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_match_1_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:08:50"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:09:20"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:09:37"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Nuke"
+    },
+    "timestamp": "2025-06-30 01:09:49"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:10:42"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 1
+    },
+    "timestamp": "2025-06-30 01:10:48"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 1
+    },
+    "timestamp": "2025-06-30 01:10:51"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:10:59"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_3_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:11:03"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:11:09"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:11:15"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:11:18"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:16:36"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:17:09"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:17:18"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 1
+    },
+    "timestamp": "2025-06-30 01:17:37"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_1_map_Mirage_T_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:17:43"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:17:51"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:18:06"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Sa1nTy_match_2_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:18:10"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:19:25"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:19:33"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_match_1_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:19:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:19:48"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:19:51"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:21:12"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:21:15"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:21:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Sa1nTy_match_3_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:21:43"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:21:52"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Inferno"
+    },
+    "timestamp": "2025-06-30 01:21:56"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:22:13"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 1
+    },
+    "timestamp": "2025-06-30 01:23:49"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_1_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:23:54"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 1
+    },
+    "timestamp": "2025-06-30 01:24:17"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_1_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:24:24"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:24:32"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Inferno_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:25:13"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:25:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Dust2_CT_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:25:25"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:25:31"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:29:05"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:29:14"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_all_matches_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:29:18"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:29:22"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_match_1_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:29:27"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:29:30"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Inferno"
+    },
+    "timestamp": "2025-06-30 01:30:05"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "map",
+      "filename": "map_Inferno_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:30:09"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:30:15"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:30:30"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_2_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:30:34"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:30:36"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:35:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:35:21"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_2_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:35:25"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:38:59"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:39:03"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_all_matches_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:39:06"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:39:07"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_match_3_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:39:14"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "match_Due1yant_3"
+    },
+    "timestamp": "2025-06-30 01:39:15"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:39:25"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:39:31"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:39:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:40:17"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 01:40:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Sa1nTy_match_3_stats",
+      "format": "csv"
+    },
+    "timestamp": "2025-06-30 01:40:24"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "match_Sa1nTy_3"
+    },
+    "timestamp": "2025-06-30 01:40:26"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:40:33"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:40:36"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:40:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:42:03"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Nuke"
+    },
+    "timestamp": "2025-06-30 01:42:08"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Nuke"
+    },
+    "timestamp": "2025-06-30 01:42:12"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:42:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:42:47"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:42:50"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_3_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:42:54"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:42:56"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:43:02"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:43:30"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:43:35"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:47:13"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:47:16"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_all_matches_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 01:47:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 01:47:20"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_match_0_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:47:28"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:47:34"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Dust2"
+    },
+    "timestamp": "2025-06-30 01:47:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "map",
+      "filename": "map_Dust2_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:47:41"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:47:47"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:47:52"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_4_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:47:57"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:47:58"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Dust2_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:48:06"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:48:12"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:48:58"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:50:29"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:52:22"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:52:26"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_3_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:52:29"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:52:30"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:52:34"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:52:39"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_T_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:52:49"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:52:54"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:53:43"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Dust2_CT_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:53:49"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 01:56:01"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Dust2_CT_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 01:56:06"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 01:56:11"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 01:56:16"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:56:23"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 01:56:37"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 02:00:20"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:00:25"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 02:00:35"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 02:00:55"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 02:04:04"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_2_map_Inferno_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:04:08"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 2
+    },
+    "timestamp": "2025-06-30 02:06:38"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_2_map_Inferno_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:06:43"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 3
+    },
+    "timestamp": "2025-06-30 02:10:49"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:10:54"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_3_map_Nuke_CT_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 02:11:01"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 02:12:13"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Inferno_CT_stats",
+      "format": "pdf"
+    },
+    "timestamp": "2025-06-30 02:12:19"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "matchmap",
+      "filename": "match_4_map_Inferno_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:12:28"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 02:12:31"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "match",
+      "filename": "match_4_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:12:34"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 02:12:35"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_match",
+    "params": {
+      "match_idx": 4
+    },
+    "timestamp": "2025-06-30 02:12:39"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "tournaments",
+      "filename": "tournaments_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:12:43"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "maps",
+      "filename": "maps_list",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:12:56"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Inferno"
+    },
+    "timestamp": "2025-06-30 02:12:59"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "map",
+      "filename": "map_Inferno_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:13:02"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_map",
+    "params": {
+      "map": "Inferno"
+    },
+    "timestamp": "2025-06-30 02:13:04"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "players",
+      "filename": "players_average_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:13:37"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 02:13:46"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Due1yant_all_matches_stats",
+      "format": "xlsx"
+    },
+    "timestamp": "2025-06-30 02:13:50"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Due1yant"
+    },
+    "timestamp": "2025-06-30 02:13:51"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 02:13:55"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "export",
+    "params": {
+      "type": "player",
+      "filename": "player_Sa1nTy_match_3_stats",
+      "format": "json"
+    },
+    "timestamp": "2025-06-30 02:14:00"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 02:14:02"
+  },
+  {
+    "user_id": 781771257,
+    "username": "lvmzcndvld",
+    "action": "view_player_card",
+    "params": {
+      "player": "Sa1nTy"
+    },
+    "timestamp": "2025-06-30 02:14:22"
+  }
+]

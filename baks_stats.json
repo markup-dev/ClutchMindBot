@@ -1,0 +1,428 @@
+{
+  "match_info": [
+    {
+    "tournament": "ESEA Advanced Season 53 Europe",
+    "date": "2025-05-29",
+    "time": "18:00",
+    "teams": ["BAKS", "JANO"],
+    "score": "2-0",
+    "overall": {
+      "team_stats": {
+        "score": 2,
+        "team_rating": 1.16,
+        "first_kills": 29,
+        "clutches_won": 2
+      },
+      "players": {
+        "both": [
+          {"nickname": "swetsi", "OpK-D": "9:4", "MKs": 10, "KAST": "72.0%", "1vsX": 0, "K": 43, "HS": 13, "A": 11, "A_f": 4, "D": 33, "D_t": 5, "ADR": 86.1, "Rating": 1.29},
+          {"nickname": "MrTrelog", "OpK-D": "3:3", "MKs": 13, "KAST": "80.0%", "1vsX": 1, "K": 42, "HS": 24, "A": 11, "A_f": 1, "D": 33, "D_t": 7, "ADR": 81.0, "Rating": 1.26},
+          {"nickname": "Sa1nTy", "OpK-D": "9:7", "MKs": 12, "KAST": "64.0%", "1vsX": 0, "K": 42, "HS": 31, "A": 8, "A_f": 1, "D": 35, "D_t": 5, "ADR": 87.6, "Rating": 1.19},
+          {"nickname": "GREATEST", "OpK-D": "4:1", "MKs": 5, "KAST": "82.0%", "1vsX": 1, "K": 29, "HS": 18, "A": 12, "A_f": 2, "D": 28, "D_t": 6, "ADR": 67.0, "Rating": 1.07},
+          {"nickname": "Due1yant", "OpK-D": "4:6", "MKs": 5, "KAST": "76.0%", "1vsX": 0, "K": 30, "HS": 16, "A": 8, "A_f": 2, "D": 29, "D_t": 7, "ADR": 65.9, "Rating": 0.99}
+        ],
+        "t": [
+          {"nickname": "swetsi", "OpK-D": "4:2", "MKs": 4, "KAST": "65.2%", "1vsX": 0, "K": 19, "HS": 7, "A": 6, "A_f": 3, "D": 14, "D_t": 3, "ADR": 79.5, "Rating": 1.31},
+          {"nickname": "MrTrelog", "OpK-D": "1:2", "MKs": 5, "KAST": "69.6%", "1vsX": 1, "K": 15, "HS": 8, "A": 6, "A_f": 1, "D": 14, "D_t": 4, "ADR": 61.1, "Rating": 1.13},
+          {"nickname": "Sa1nTy", "OpK-D": "3:3", "MKs": 5, "KAST": "65.2%", "1vsX": 0, "K": 19, "HS": 15, "A": 4, "A_f": 1, "D": 17, "D_t": 3, "ADR": 89.6, "Rating": 1.22},
+          {"nickname": "GREATEST", "OpK-D": "1:1", "MKs": 1, "KAST": "82.6%", "1vsX": 0, "K": 11, "HS": 7, "A": 5, "A_f": 0, "D": 14, "D_t": 4, "ADR": 65.7, "Rating": 1.04},
+          {"nickname": "Due1yant", "OpK-D": "1:5", "MKs": 2, "KAST": "78.3%", "1vsX": 0, "K": 14, "HS": 8, "A": 3, "A_f": 2, "D": 14, "D_t": 4, "ADR": 60.1, "Rating": 0.98}
+        ],
+        "ct": [
+          {"nickname": "swetsi", "OpK-D": "5:2", "MKs": 6, "KAST": "77.8%", "1vsX": 0, "K": 24, "HS": 6, "A": 5, "A_f": 1, "D": 19, "D_t": 2, "ADR": 91.8, "Rating": 1.27},
+          {"nickname": "MrTrelog", "OpK-D": "2:1", "MKs": 8, "KAST": "88.9%", "1vsX": 0, "K": 27, "HS": 16, "A": 5, "A_f": 0, "D": 19, "D_t": 3, "ADR": 97.9, "Rating": 1.37},
+          {"nickname": "Sa1nTy", "OpK-D": "6:4", "MKs": 7, "KAST": "63.0%", "1vsX": 0, "K": 23, "HS": 16, "A": 4, "A_f": 0, "D": 18, "D_t": 2, "ADR": 85.9, "Rating": 1.16},
+          {"nickname": "GREATEST", "OpK-D": "3:0", "MKs": 4, "KAST": "81.5%", "1vsX": 1, "K": 18, "HS": 11, "A": 7, "A_f": 2, "D": 14, "D_t": 2, "ADR": 68.1, "Rating": 1.10},
+          {"nickname": "Due1yant", "OpK-D": "3:1", "MKs": 3, "KAST": "74.1%", "1vsX": 0, "K": 16, "HS": 8, "A": 5, "A_f": 0, "D": 15, "D_t": 3, "ADR": 70.9, "Rating": 0.99}
+        ]
+      }
+    },
+    "maps": [
+      {
+        "name": "Mirage",
+        "score": "13-7",
+        "breakdown": {"total": "13:7", "halves": ["7:5", "6:2"]},
+        "team_stats": {
+          "team_rating": 1.22,
+          "first_kills": 11,
+          "clutches_won": 0
+        },
+        "players": {
+          "both": [
+            {"nickname": "Sa1nTy", "OpK-D": "6:4", "MKs": 5, "KAST": "65.0%", "1vsX": 0, "K": 20, "HS": 16, "A": 2, "A_f": 0, "D": 13, "D_t": 1, "ADR": 100.1, "Rating": 1.45},
+            {"nickname": "swetsi", "OpK-D": "2:1", "MKs": 4, "KAST": "80.0%", "1vsX": 0, "K": 18, "HS": 5, "A": 4, "A_f": 1, "D": 11, "D_t": 2, "ADR": 76.2, "Rating": 1.32},
+            {"nickname": "MrTrelog", "OpK-D": "1:1", "MKs": 5, "KAST": "95.0%", "1vsX": 0, "K": 17, "HS": 11, "A": 4, "A_f": 1, "D": 13, "D_t": 4, "ADR": 81.2, "Rating": 1.31},
+            {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 3, "KAST": "75.0%", "1vsX": 0, "K": 12, "HS": 8, "A": 7, "A_f": 2, "D": 10, "D_t": 2, "ADR": 72.4, "Rating": 1.09},
+            {"nickname": "Due1yant", "OpK-D": "1:3", "MKs": 1, "KAST": "75.0%", "1vsX": 0, "K": 8, "HS": 5, "A": 4, "A_f": 0, "D": 10, "D_t": 2, "ADR": 55.8, "Rating": 0.91}
+          ],
+          "t": [
+            {"nickname": "Sa1nTy", "OpK-D": "3:1", "MKs": 2, "KAST": "62.5%", "1vsX": 0, "K": 9, "HS": 7, "A": 1, "A_f": 0, "D": 5, "D_t": 0, "ADR": 124.0, "Rating": 1.85},
+            {"nickname": "swetsi", "OpK-D": "2:0", "MKs": 2, "KAST": "87.5%", "1vsX": 0, "K": 11, "HS": 4, "A": 3, "A_f": 2, "D": 2, "D_t": 0, "ADR": 106.9, "Rating": 2.17},
+            {"nickname": "MrTrelog", "OpK-D": "0:0", "MKs": 2, "KAST": "87.5%", "1vsX": 0, "K": 5, "HS": 4, "A": 2, "A_f": 1, "D": 3, "D_t": 1, "ADR": 53.6, "Rating": 1.31},
+            {"nickname": "GREATEST", "OpK-D": "0:0", "MKs": 0, "KAST": "87.5%", "1vsX": 0, "K": 3, "HS": 1, "A": 2, "A_f": 0, "D": 3, "D_t": 0, "ADR": 57.4, "Rating": 1.08},
+            {"nickname": "Due1yant", "OpK-D": "0:2", "MKs": 2, "KAST": "87.5%", "1vsX": 0, "K": 3, "HS": 1, "A": 1, "A_f": 0, "D": 4, "D_t": 1, "ADR": 49.8, "Rating": 0.90}
+          ],
+          "ct": [
+            {"nickname": "Sa1nTy", "OpK-D": "3:3", "MKs": 3, "KAST": "66.7%", "1vsX": 0, "K": 11, "HS": 9, "A": 1, "A_f": 0, "D": 8, "D_t": 1, "ADR": 84.2, "Rating": 1.19},
+            {"nickname": "swetsi", "OpK-D": "0:1", "MKs": 2, "KAST": "75.0%", "1vsX": 0, "K": 7, "HS": 1, "A": 1, "A_f": 0, "D": 9, "D_t": 2, "ADR": 55.8, "Rating": 0.75},
+            {"nickname": "MrTrelog", "OpK-D": "1:1", "MKs": 3, "KAST": "100.0%", "1vsX": 0, "K": 12, "HS": 7, "A": 2, "A_f": 0, "D": 10, "D_t": 3, "ADR": 99.5, "Rating": 1.32},
+            {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 3, "KAST": "66.7%", "1vsX": 0, "K": 9, "HS": 7, "A": 5, "A_f": 2, "D": 7, "D_t": 2, "ADR": 82.4, "Rating": 1.10},
+            {"nickname": "Due1yant", "OpK-D": "1:1", "MKs": 1, "KAST": "66.7%", "1vsX": 0, "K": 5, "HS": 4, "A": 3, "A_f": 0, "D": 6, "D_t": 1, "ADR": 59.8, "Rating": 0.92}
+          ]
+        }
+      },
+      {
+        "name": "Dust2",
+        "score": "16-14",
+        "breakdown": {"total": "16:14", "halves": ["5:7", "7:5", "4:2"]},
+        "team_stats": {
+          "team_rating": 1.13,
+          "first_kills": 18,
+          "clutches_won": 2
+        },
+        "players": {
+          "both": [
+            {"nickname": "swetsi", "OpK-D": "7:3", "MKs": 6, "KAST": "66.7%", "1vsX": 0, "K": 25, "HS": 8, "A": 7, "A_f": 2, "D": 22, "D_t": 3, "ADR": 92.7, "Rating": 1.31},
+            {"nickname": "MrTrelog", "OpK-D": "2:2", "MKs": 8, "KAST": "70.0%", "1vsX": 1, "K": 25, "HS": 13, "A": 7, "A_f": 0, "D": 20, "D_t": 3, "ADR": 80.8, "Rating": 1.23},
+            {"nickname": "GREATEST", "OpK-D": "3:1", "MKs": 2, "KAST": "86.7%", "1vsX": 1, "K": 17, "HS": 10, "A": 5, "A_f": 0, "D": 18, "D_t": 4, "ADR": 63.4, "Rating": 1.07},
+            {"nickname": "Due1yant", "OpK-D": "3:3", "MKs": 4, "KAST": "76.7%", "1vsX": 0, "K": 22, "HS": 11, "A": 4, "A_f": 2, "D": 19, "D_t": 5, "ADR": 72.7, "Rating": 1.04},
+            {"nickname": "Sa1nTy", "OpK-D": "3:3", "MKs": 7, "KAST": "63.3%", "1vsX": 0, "K": 22, "HS": 15, "A": 6, "A_f": 1, "D": 22, "D_t": 4, "ADR": 79.2, "Rating": 1.02}
+          ],
+          "t": [
+            {"nickname": "swetsi", "OpK-D": "2:2", "MKs": 2, "KAST": "53.3%", "1vsX": 0, "K": 8, "HS": 3, "A": 3, "A_f": 1, "D": 12, "D_t": 3, "ADR": 64.9, "Rating": 0.90},
+            {"nickname": "MrTrelog", "OpK-D": "1:2", "MKs": 3, "KAST": "60.0%", "1vsX": 1, "K": 10, "HS": 4, "A": 4, "A_f": 0, "D": 11, "D_t": 3, "ADR": 65.1, "Rating": 1.04},
+            {"nickname": "GREATEST", "OpK-D": "1:1", "MKs": 1, "KAST": "80.0%", "1vsX": 0, "K": 8, "HS": 6, "A": 3, "A_f": 0, "D": 11, "D_t": 4, "ADR": 70.2, "Rating": 1.02},
+            {"nickname": "Due1yant", "OpK-D": "1:3", "MKs": 2, "KAST": "73.3%", "1vsX": 0, "K": 11, "HS": 7, "A": 2, "A_f": 1, "D": 10, "D_t": 3, "ADR": 65.6, "Rating": 1.02},
+            {"nickname": "Sa1nTy", "OpK-D": "0:2", "MKs": 3, "KAST": "66.7%", "1vsX": 0, "K": 10, "HS": 8, "A": 3, "A_f": 1, "D": 12, "D_t": 3, "ADR": 71.2, "Rating": 0.89}
+          ],
+          "ct": [
+            {"nickname": "swetsi", "OpK-D": "5:1", "MKs": 4, "KAST": "80.0%", "1vsX": 0, "K": 17, "HS": 5, "A": 4, "A_f": 1, "D": 10, "D_t": 0, "ADR": 120.5, "Rating": 1.73},
+            {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 5, "KAST": "80.0%", "1vsX": 0, "K": 15, "HS": 9, "A": 3, "A_f": 0, "D": 9, "D_t": 0, "ADR": 96.6, "Rating": 1.41},
+            {"nickname": "GREATEST", "OpK-D": "2:0", "MKs": 1, "KAST": "93.3%", "1vsX": 1, "K": 9, "HS": 4, "A": 2, "A_f": 0, "D": 7, "D_t": 0, "ADR": 56.7, "Rating": 1.12},
+            {"nickname": "Due1yant", "OpK-D": "2:0", "MKs": 2, "KAST": "80.0%", "1vsX": 0, "K": 11, "HS": 4, "A": 2, "A_f": 1, "D": 9, "D_t": 2, "ADR": 79.8, "Rating": 1.06},
+            {"nickname": "Sa1nTy", "OpK-D": "3:1", "MKs": 4, "KAST": "60.0%", "1vsX": 0, "K": 12, "HS": 7, "A": 3, "A_f": 0, "D": 10, "D_t": 1, "ADR": 87.2, "Rating": 1.14}
+          ]
+        }
+      }
+    ]
+    },
+    {
+      "tournament": "ESEA Advanced Season 53 Europe",
+      "date": "2025-05-31",
+      "time": "20:30",
+      "teams": ["Zero Tenacity", "BAKS"],
+      "score": "2-0",
+      "overall": {
+        "team_stats": {
+          "score": 0,
+          "team_rating": 0.80,
+          "first_kills": 16,
+          "clutches_won": 1
+        },
+        "players": {
+          "both": [
+            {"nickname": "GREATEST", "OpK-D": "1:2", "MKs": 7, "KAST": "71.1%", "1vsX": 0, "K": 28, "HS": 19, "A": 5, "A_f": 1, "D": 25, "D_t": 3, "ADR": 77.6, "Rating": 1.00},
+            {"nickname": "MrTrelog", "OpK-D": "2:3", "MKs": 6, "KAST": "65.8%", "1vsX": 0, "K": 26, "HS": 12, "A": 5, "A_f": 2, "D": 26, "D_t": 0, "ADR": 76.3, "Rating": 0.93},
+            {"nickname": "Due1yant", "OpK-D": "5:5", "MKs": 8, "KAST": "55.3%", "1vsX": 1, "K": 23, "HS": 14, "A": 8, "A_f": 0, "D": 30, "D_t": 8, "ADR": 72.5, "Rating": 0.92},
+            {"nickname": "swetsi", "OpK-D": "3:6", "MKs": 4, "KAST": "50.0%", "1vsX": 0, "K": 17, "HS": 4, "A": 2, "A_f": 0, "D": 18, "D_t": 0, "ADR": 46.9, "Rating": 0.63},
+            {"nickname": "Sa1nTy", "OpK-D": "5:6", "MKs": 2, "KAST": "47.4%", "1vsX": 0, "K": 14, "HS": 10, "A": 4, "A_f": 1, "D": 32, "D_t": 5, "ADR": 51.1, "Rating": 0.53}
+          ],
+          "t": [
+            {"nickname": "GREATEST", "OpK-D": "1:1", "MKs": 3, "KAST": "55.6%", "1vsX": 0, "K": 11, "HS": 8, "A": 3, "A_f": 0, "D": 14, "D_t": 1, "ADR": 81.8, "Rating": 0.94},
+            {"nickname": "MrTrelog", "OpK-D": "0:2", "MKs": 1, "KAST": "61.1%", "1vsX": 0, "K": 7, "HS": 6, "A": 2, "A_f": 0, "D": 12, "D_t": 0, "ADR": 45.7, "Rating": 0.63},
+            {"nickname": "Due1yant", "OpK-D": "4:1", "MKs": 4, "KAST": "44.4%", "1vsX": 1, "K": 13, "HS": 9, "A": 3, "A_f": 0, "D": 15, "D_t": 3, "ADR": 72.4, "Rating": 1.12},
+            {"nickname": "swetsi", "OpK-D": "2:3", "MKs": 3, "KAST": "55.6%", "1vsX": 0, "K": 12, "HS": 2, "A": 2, "A_f": 0, "D": 13, "D_t": 0, "ADR": 68.6, "Rating": 0.95},
+            {"nickname": "Sa1nTy", "OpK-D": "2:2", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 7, "HS": 5, "A": 1, "A_f": 0, "D": 15, "D_t": 3, "ADR": 48.6, "Rating": 0.64}
+          ],
+          "ct": [
+            {"nickname": "GREATEST", "OpK-D": "0:1", "MKs": 4, "KAST": "85.0%", "1vsX": 0, "K": 17, "HS": 11, "A": 2, "A_f": 1, "D": 11, "D_t": 2, "ADR": 73.7, "Rating": 1.05},
+            {"nickname": "MrTrelog", "OpK-D": "2:1", "MKs": 5, "KAST": "70.0%", "1vsX": 0, "K": 19, "HS": 6, "A": 3, "A_f": 2, "D": 14, "D_t": 0, "ADR": 103.8, "Rating": 1.20},
+            {"nickname": "Due1yant", "OpK-D": "1:4", "MKs": 4, "KAST": "65.0%", "1vsX": 0, "K": 10, "HS": 5, "A": 5, "A_f": 0, "D": 15, "D_t": 5, "ADR": 72.5, "Rating": 0.73},
+            {"nickname": "swetsi", "OpK-D": "1:3", "MKs": 1, "KAST": "45.0%", "1vsX": 0, "K": 5, "HS": 2, "A": 0, "A_f": 0, "D": 15, "D_t": 0, "ADR": 27.4, "Rating": 0.35},
+            {"nickname": "Sa1nTy", "OpK-D": "3:4", "MKs": 1, "KAST": "45.0%", "1vsX": 0, "K": 7, "HS": 5, "A": 3, "A_f": 1, "D": 17, "D_t": 2, "ADR": 53.3, "Rating": 0.43}
+          ]
+        }
+      },
+      "maps": [
+        {
+          "name": "Dust2",
+          "score": "13-7",
+          "breakdown": {"total": "13:7", "halves": ["6:6", "7:1"]},
+          "team_stats": {
+            "team_rating": 0.77,
+            "first_kills": 10,
+            "clutches_won": 1
+          },
+          "players": {
+            "both": [
+              {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 3, "KAST": "65.0%", "1vsX": 0, "K": 13, "HS": 11, "A": 2, "A_f": 0, "D": 14, "D_t": 2, "ADR": 79.2, "Rating": 0.93},
+              {"nickname": "swetsi", "OpK-D": "2:3", "MKs": 2, "KAST": "50.0%", "1vsX": 0, "K": 10, "HS": 2, "A": 2, "A_f": 0, "D": 15, "D_t": 0, "ADR": 53.9, "Rating": 0.78},
+              {"nickname": "Due1yant", "OpK-D": "3:1", "MKs": 4, "KAST": "35.0%", "1vsX": 1, "K": 11, "HS": 7, "A": 2, "A_f": 0, "D": 17, "D_t": 2, "ADR": 51.9, "Rating": 0.77},
+              {"nickname": "Sa1nTy", "OpK-D": "4:5", "MKs": 2, "KAST": "50.0%", "1vsX": 0, "K": 10, "HS": 9, "A": 4, "A_f": 1, "D": 18, "D_t": 3, "ADR": 66.3, "Rating": 0.73},
+              {"nickname": "MrTrelog", "OpK-D": "0:1", "MKs": 2, "KAST": "55.0%", "1vsX": 0, "K": 8, "HS": 4, "A": 2, "A_f": 0, "D": 13, "D_t": 0, "ADR": 49.8, "Rating": 0.64}
+            ],
+            "t": [
+              {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 2, "KAST": "58.3%", "1vsX": 0, "K": 7, "HS": 5, "A": 2, "A_f": 0, "D": 9, "D_t": 1, "ADR": 82.8, "Rating": 0.98},
+              {"nickname": "swetsi", "OpK-D": "2:1", "MKs": 2, "KAST": "66.7%", "1vsX": 0, "K": 9, "HS": 2, "A": 2, "A_f": 0, "D": 8, "D_t": 0, "ADR": 83.0, "Rating": 1.23},
+              {"nickname": "Due1yant", "OpK-D": "2:1", "MKs": 3, "KAST": "41.7%", "1vsX": 1, "K": 9, "HS": 6, "A": 1, "A_f": 0, "D": 10, "D_t": 2, "ADR": 64.5, "Rating": 1.06},
+              {"nickname": "Sa1nTy", "OpK-D": "2:2", "MKs": 1, "KAST": "58.3%", "1vsX": 0, "K": 6, "HS": 5, "A": 0, "A_f": 0, "D": 10, "D_t": 1, "ADR": 63.7, "Rating": 0.83},
+              {"nickname": "MrTrelog", "OpK-D": "0:1", "MKs": 1, "KAST": "66.7%", "1vsX": 0, "K": 5, "HS": 4, "A": 2, "A_f": 0, "D": 7, "D_t": 0, "ADR": 51.0, "Rating": 0.77}
+            ],
+            "ct": [
+              {"nickname": "GREATEST", "OpK-D": "0:0", "MKs": 1, "KAST": "75.0%", "1vsX": 0, "K": 6, "HS": 6, "A": 0, "A_f": 0, "D": 5, "D_t": 1, "ADR": 73.8, "Rating": 0.87},
+              {"nickname": "swetsi", "OpK-D": "0:2", "MKs": 0, "KAST": "25.0%", "1vsX": 0, "K": 1, "HS": 0, "A": 0, "A_f": 0, "D": 7, "D_t": 0, "ADR": 10.2, "Rating": 0.10},
+              {"nickname": "Due1yant", "OpK-D": "1:0", "MKs": 1, "KAST": "25.0%", "1vsX": 0, "K": 2, "HS": 1, "A": 1, "A_f": 0, "D": 7, "D_t": 0, "ADR": 33.0, "Rating": 0.33},
+              {"nickname": "Sa1nTy", "OpK-D": "2:3", "MKs": 1, "KAST": "37.5%", "1vsX": 0, "K": 4, "HS": 4, "A": 1, "A_f": 1, "D": 8, "D_t": 2, "ADR": 70.2, "Rating": 0.57},
+              {"nickname": "MrTrelog", "OpK-D": "0:0", "MKs": 1, "KAST": "37.5%", "1vsX": 0, "K": 3, "HS": 0, "A": 0, "A_f": 0, "D": 6, "D_t": 0, "ADR": 47.9, "Rating": 0.45}
+            ]
+          }
+        },
+        {
+          "name": "Inferno",
+          "score": "13-5",
+          "breakdown": {"total": "13:5", "halves": ["8:4", "5:1"]},
+          "team_stats": {
+            "team_rating": 0.88,
+            "first_kills": 6,
+            "clutches_won": 0
+          },
+          "players": {
+            "both": [
+              {"nickname": "MrTrelog", "OpK-D": "2:2", "MKs": 4, "KAST": "77.8%", "1vsX": 0, "K": 18, "HS": 8, "A": 3, "A_f": 2, "D": 13, "D_t": 0, "ADR": 105.8, "Rating": 1.34},
+              {"nickname": "Due1yant", "OpK-D": "2:4", "MKs": 4, "KAST": "77.8%", "1vsX": 0, "K": 12, "HS": 7, "A": 6, "A_f": 0, "D": 13, "D_t": 6, "ADR": 95.4, "Rating": 1.14},
+              {"nickname": "GREATEST", "OpK-D": "0:2", "MKs": 4, "KAST": "77.8%", "1vsX": 0, "K": 15, "HS": 8, "A": 3, "A_f": 1, "D": 11, "D_t": 0, "ADR": 75.8, "Rating": 1.07},
+              {"nickname": "swetsi", "OpK-D": "1:3", "MKs": 2, "KAST": "50.0%", "1vsX": 0, "K": 7, "HS": 2, "A": 0, "A_f": 0, "D": 14, "D_t": 0, "ADR": 39.2, "Rating": 0.51},
+              {"nickname": "Sa1nTy", "OpK-D": "1:1", "MKs": 1, "KAST": "44.4%", "1vsX": 0, "K": 4, "HS": 1, "A": 4, "A_f": 1, "D": 14, "D_t": 2, "ADR": 34.1, "Rating": 0.36}
+            ],
+            "t": [
+              {"nickname": "MrTrelog", "OpK-D": "0:1", "MKs": 0, "KAST": "50.0%", "1vsX": 0, "K": 2, "HS": 2, "A": 0, "A_f": 0, "D": 5, "D_t": 0, "ADR": 35.2, "Rating": 0.37},
+              {"nickname": "Due1yant", "OpK-D": "2:0", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 4, "HS": 3, "A": 2, "A_f": 0, "D": 5, "D_t": 1, "ADR": 88.3, "Rating": 1.24},
+              {"nickname": "GREATEST", "OpK-D": "0:1", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 4, "HS": 3, "A": 1, "A_f": 0, "D": 5, "D_t": 0, "ADR": 80.0, "Rating": 0.87},
+              {"nickname": "swetsi", "OpK-D": "0:2", "MKs": 1, "KAST": "33.3%", "1vsX": 0, "K": 3, "HS": 0, "A": 0, "A_f": 0, "D": 9, "D_t": 0, "ADR": 39.8, "Rating": 0.45},
+              {"nickname": "Sa1nTy", "OpK-D": "0:0", "MKs": 0, "KAST": "33.3%", "1vsX": 0, "K": 1, "HS": 0, "A": 1, "A_f": 0, "D": 5, "D_t": 0, "ADR": 18.3, "Rating": 0.31}
+            ],
+            "ct": [
+              {"nickname": "MrTrelog", "OpK-D": "2:1", "MKs": 4, "KAST": "91.7%", "1vsX": 0, "K": 16, "HS": 6, "A": 3, "A_f": 2, "D": 8, "D_t": 0, "ADR": 141.1, "Rating": 1.83},
+              {"nickname": "Due1yant", "OpK-D": "0:4", "MKs": 3, "KAST": "91.7%", "1vsX": 0, "K": 8, "HS": 4, "A": 4, "A_f": 0, "D": 8, "D_t": 5, "ADR": 98.9, "Rating": 1.09},
+              {"nickname": "GREATEST", "OpK-D": "0:1", "MKs": 3, "KAST": "91.7%", "1vsX": 0, "K": 11, "HS": 5, "A": 2, "A_f": 1, "D": 6, "D_t": 1, "ADR": 73.7, "Rating": 1.18},
+              {"nickname": "swetsi", "OpK-D": "1:1", "MKs": 1, "KAST": "58.3%", "1vsX": 0, "K": 4, "HS": 2, "A": 0, "A_f": 0, "D": 5, "D_t": 0, "ADR": 38.8, "Rating": 0.54},
+              {"nickname": "Sa1nTy", "OpK-D": "1:1", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 3, "HS": 1, "A": 3, "A_f": 1, "D": 9, "D_t": 2, "ADR": 42.0, "Rating": 0.39}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tournament": "ESEA Advanced Season 53 Europe",
+      "date": "2025-06-02",
+      "time": "18:00",
+      "teams": ["UNiTY", "BAKS"],
+      "score": "0-2",
+      "overall": {
+        "team_stats": {
+          "score": 2,
+          "team_rating": 1.19,
+          "first_kills": 22,
+          "clutches_won": 5
+        },
+        "players": {
+          "both": [
+            {"nickname": "swetsi", "OpK-D": "11:2", "MKs": 12, "KAST": "84.6%", "1vsX": 1, "K": 43, "HS": 11, "A": 12, "A_f": 3, "D": 24, "D_t": 5, "ADR": 122.4, "Rating": 1.81},
+            {"nickname": "GREATEST", "OpK-D": "2:1", "MKs": 7, "KAST": "82.1%", "1vsX": 2, "K": 26, "HS": 14, "A": 12, "A_f": 1, "D": 20, "D_t": 6, "ADR": 73.5, "Rating": 1.21},
+            {"nickname": "MrTrelog", "OpK-D": "2:3", "MKs": 7, "KAST": "87.2%", "1vsX": 2, "K": 25, "HS": 13, "A": 8, "A_f": 1, "D": 17, "D_t": 2, "ADR": 56.3, "Rating": 1.08},
+            {"nickname": "Due1yant", "OpK-D": "2:4", "MKs": 7, "KAST": "84.6%", "1vsX": 0, "K": 25, "HS": 15, "A": 6, "A_f": 0, "D": 24, "D_t": 9, "ADR": 63.0, "Rating": 1.02},
+            {"nickname": "Sa1nTy", "OpK-D": "5:6", "MKs": 4, "KAST": "69.2%", "1vsX": 0, "K": 22, "HS": 14, "A": 9, "A_f": 0, "D": 30, "D_t": 9, "ADR": 67.9, "Rating": 0.86}
+          ],
+          "t": [
+            {"nickname": "Due1yant", "OpK-D": "1:4", "MKs": 4, "KAST": "80.0%", "1vsX": 0, "K": 13, "HS": 9, "A": 2, "A_f": 0, "D": 14, "D_t": 6, "ADR": 57.0, "Rating": 1.04},
+            {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 4, "KAST": "75.0%", "1vsX": 0, "K": 14, "HS": 8, "A": 7, "A_f": 0, "D": 11, "D_t": 1, "ADR": 71.2, "Rating": 1.23},
+            {"nickname": "MrTrelog", "OpK-D": "0:1", "MKs": 5, "KAST": "80.0%", "1vsX": 1, "K": 16, "HS": 10, "A": 3, "A_f": 1, "D": 10, "D_t": 2, "ADR": 75.3, "Rating": 1.29},
+            {"nickname": "Sa1nTy", "OpK-D": "2:4", "MKs": 4, "KAST": "65.0%", "1vsX": 0, "K": 7, "HS": 6, "A": 0, "A_f": 0, "D": 17, "D_t": 7, "ADR": 58.7, "Rating": 0.76},
+            {"nickname": "swetsi", "OpK-D": "5:2", "MKs": 7, "KAST": "85.0%", "1vsX": 1, "K": 22, "HS": 9, "A": 8, "A_f": 3, "D": 11, "D_t": 2, "ADR": 122.2, "Rating": 1.97}
+          ],
+          "ct": [
+            {"nickname": "swetsi", "OpK-D": "6:0", "MKs": 5, "KAST": "84.2%", "1vsX": 0, "K": 21, "HS": 2, "A": 4, "A_f": 0, "D": 13, "D_t": 3, "ADR": 122.6, "Rating": 1.64},
+            {"nickname": "GREATEST", "OpK-D": "1:1", "MKs": 3, "KAST": "89.5%", "1vsX": 2, "K": 12, "HS": 6, "A": 5, "A_f": 1, "D": 9, "D_t": 5, "ADR": 75.9, "Rating": 1.20},
+            {"nickname": "MrTrelog", "OpK-D": "2:2", "MKs": 2, "KAST": "94.7%", "1vsX": 1, "K": 9, "HS": 3, "A": 5, "A_f": 0, "D": 7, "D_t": 0, "ADR": 36.3, "Rating": 0.85},
+            {"nickname": "Due1yant", "OpK-D": "1:0", "MKs": 3, "KAST": "89.5%", "1vsX": 0, "K": 12, "HS": 6, "A": 4, "A_f": 0, "D": 10, "D_t": 3, "ADR": 69.4, "Rating": 0.99},
+            {"nickname": "Sa1nTy", "OpK-D": "3:2", "MKs": 4, "KAST": "73.7%", "1vsX": 0, "K": 15, "HS": 8, "A": 2, "A_f": 0, "D": 13, "D_t": 2, "ADR": 77.5, "Rating": 0.96}
+          ]
+        }
+      },
+      "maps": [
+        {
+          "name": "Mirage",
+          "score": "7-13",
+          "breakdown": {"total": "7:13", "halves": ["3:9", "4:4"]},
+          "team_stats": {
+            "team_rating": 1.28,
+            "first_kills": 14,
+            "clutches_won": 3
+          },
+          "players": {
+            "both": [
+              {"nickname": "swetsi", "OpK-D": "9:2", "MKs": 8, "KAST": "90.0%", "1vsX": 0, "K": 25, "HS": 6, "A": 6, "A_f": 1, "D": 14, "D_t": 4, "ADR": 138.0, "Rating": 2.04},
+              {"nickname": "MrTrelog", "OpK-D": "1:1", "MKs": 4, "KAST": "90.0%", "1vsX": 1, "K": 14, "HS": 6, "A": 5, "A_f": 0, "D": 9, "D_t": 1, "ADR": 65.0, "Rating": 1.19},
+              {"nickname": "Due1yant", "OpK-D": "1:0", "MKs": 4, "KAST": "80.0%", "1vsX": 0, "K": 15, "HS": 6, "A": 4, "A_f": 0, "D": 12, "D_t": 3, "ADR": 75.4, "Rating": 1.13},
+              {"nickname": "GREATEST", "OpK-D": "0:0", "MKs": 2, "KAST": "85.0%", "1vsX": 0, "K": 11, "HS": 5, "A": 6, "A_f": 1, "D": 11, "D_t": 4, "ADR": 62.6, "Rating": 1.06},
+              {"nickname": "Sa1nTy", "OpK-D": "3:3", "MKs": 3, "KAST": "60.0%", "1vsX": 0, "K": 14, "HS": 8, "A": 4, "A_f": 0, "D": 17, "D_t": 5, "ADR": 75.0, "Rating": 0.96}
+            ],
+            "t": [
+              {"nickname": "swetsi", "OpK-D": "4:2", "MKs": 4, "KAST": "87.5%", "1vsX": 0, "K": 10, "HS": 4, "A": 3, "A_f": 0, "D": 6, "D_t": 1, "ADR": 145.0, "Rating": 2.18},
+              {"nickname": "MrTrelog", "OpK-D": "0:0", "MKs": 2, "KAST": "75.0%", "1vsX": 0, "K": 7, "HS": 4, "A": 1, "A_f": 0, "D": 4, "D_t": 1, "ADR": 91.9, "Rating": 1.28},
+              {"nickname": "Due1yant", "OpK-D": "0:0", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 4, "HS": 1, "A": 1, "A_f": 0, "D": 5, "D_t": 1, "ADR": 48.9, "Rating": 0.75},
+              {"nickname": "GREATEST", "OpK-D": "0:0", "MKs": 0, "KAST": "62.5%", "1vsX": 0, "K": 3, "HS": 2, "A": 2, "A_f": 0, "D": 6, "D_t": 1, "ADR": 42.4, "Rating": 0.61},
+              {"nickname": "Sa1nTy", "OpK-D": "1:1", "MKs": 1, "KAST": "50.0%", "1vsX": 0, "K": 3, "HS": 2, "A": 2, "A_f": 0, "D": 7, "D_t": 3, "ADR": 53.2, "Rating": 0.73}
+            ],
+            "ct": [
+              {"nickname": "swetsi", "OpK-D": "5:0", "MKs": 4, "KAST": "91.7%", "1vsX": 0, "K": 15, "HS": 2, "A": 4, "A_f": 1, "D": 8, "D_t": 3, "ADR": 133.3, "Rating": 1.95},
+              {"nickname": "MrTrelog", "OpK-D": "1:1", "MKs": 2, "KAST": "100.0%", "1vsX": 1, "K": 7, "HS": 2, "A": 4, "A_f": 0, "D": 5, "D_t": 0, "ADR": 47.2, "Rating": 1.14},
+              {"nickname": "Due1yant", "OpK-D": "1:0", "MKs": 3, "KAST": "100.0%", "1vsX": 0, "K": 11, "HS": 5, "A": 3, "A_f": 0, "D": 7, "D_t": 2, "ADR": 93.1, "Rating": 1.38},
+              {"nickname": "GREATEST", "OpK-D": "0:2", "MKs": 2, "KAST": "100.0%", "1vsX": 0, "K": 8, "HS": 3, "A": 4, "A_f": 1, "D": 4, "D_t": 1, "ADR": 76.1, "Rating": 1.36},
+              {"nickname": "Sa1nTy", "OpK-D": "2:2", "MKs": 2, "KAST": "66.7%", "1vsX": 0, "K": 11, "HS": 6, "A": 2, "A_f": 0, "D": 10, "D_t": 2, "ADR": 89.4, "Rating": 1.11}
+            ]
+          }
+        },
+        {
+          "name": "Nuke",
+          "score": "6-13",
+          "breakdown": {"total": "6:13", "halves": ["1:11", "5:2"]},
+          "team_stats": {
+            "team_rating": 1.14,
+            "first_kills": 8,
+            "clutches_won": 2
+          },
+          "players": {
+            "both": [
+              {"nickname": "swetsi", "OpK-D": "2:0", "MKs": 4, "KAST": "78.9%", "1vsX": 1, "K": 18, "HS": 5, "A": 6, "A_f": 3, "D": 10, "D_t": 1, "ADR": 106.0, "Rating": 1.59},
+              {"nickname": "GREATEST", "OpK-D": "2:1", "MKs": 5, "KAST": "78.9%", "1vsX": 0, "K": 15, "HS": 9, "A": 6, "A_f": 0, "D": 9, "D_t": 2, "ADR": 85.0, "Rating": 1.40},
+              {"nickname": "MrTrelog", "OpK-D": "1:2", "MKs": 3, "KAST": "84.2%", "1vsX": 1, "K": 11, "HS": 7, "A": 3, "A_f": 1, "D": 8, "D_t": 1, "ADR": 47.1, "Rating": 0.98},
+              {"nickname": "Due1yant", "OpK-D": "1:4", "MKs": 3, "KAST": "89.5%", "1vsX": 0, "K": 10, "HS": 9, "A": 2, "A_f": 0, "D": 12, "D_t": 6, "ADR": 50.0, "Rating": 0.97},
+              {"nickname": "Sa1nTy", "OpK-D": "2:3", "MKs": 1, "KAST": "78.9%", "1vsX": 0, "K": 8, "HS": 6, "A": 5, "A_f": 0, "D": 13, "D_t": 4, "ADR": 60.4, "Rating": 0.77}
+            ],
+            "t": [
+              {"nickname": "swetsi", "OpK-D": "1:0", "MKs": 3, "KAST": "83.3%", "1vsX": 1, "K": 12, "HS": 5, "A": 5, "A_f": 3, "D": 5, "D_t": 1, "ADR": 107.1, "Rating": 1.84},
+              {"nickname": "GREATEST", "OpK-D": "1:0", "MKs": 4, "KAST": "83.3%", "1vsX": 0, "K": 11, "HS": 6, "A": 5, "A_f": 0, "D": 5, "D_t": 1, "ADR": 90.4, "Rating": 1.67},
+              {"nickname": "MrTrelog", "OpK-D": "0:1", "MKs": 3, "KAST": "83.3%", "1vsX": 1, "K": 9, "HS": 6, "A": 2, "A_f": 1, "D": 5, "D_t": 1, "ADR": 64.2, "Rating": 1.31},
+              {"nickname": "Due1yant", "OpK-D": "1:4", "MKs": 3, "KAST": "100.0%", "1vsX": 0, "K": 9, "HS": 8, "A": 1, "A_f": 0, "D": 6, "D_t": 4, "ADR": 62.4, "Rating": 1.27},
+              {"nickname": "Sa1nTy", "OpK-D": "1:3", "MKs": 1, "KAST": "75.0%", "1vsX": 0, "K": 4, "HS": 4, "A": 5, "A_f": 0, "D": 10, "D_t": 4, "ADR": 62.3, "Rating": 0.79}
+            ],
+            "ct": [
+              {"nickname": "swetsi", "OpK-D": "1:0", "MKs": 1, "KAST": "71.4%", "1vsX": 0, "K": 6, "HS": 0, "A": 1, "A_f": 0, "D": 5, "D_t": 0, "ADR": 104.1, "Rating": 1.14},
+              {"nickname": "GREATEST", "OpK-D": "1:1", "MKs": 1, "KAST": "71.4%", "1vsX": 0, "K": 4, "HS": 3, "A": 1, "A_f": 0, "D": 4, "D_t": 1, "ADR": 75.7, "Rating": 0.95},
+              {"nickname": "MrTrelog", "OpK-D": "1:1", "MKs": 0, "KAST": "85.7%", "1vsX": 1, "K": 2, "HS": 1, "A": 1, "A_f": 0, "D": 3, "D_t": 0, "ADR": 17.7, "Rating": 0.42},
+              {"nickname": "Due1yant", "OpK-D": "0:0", "MKs": 0, "KAST": "71.4%", "1vsX": 0, "K": 1, "HS": 1, "A": 1, "A_f": 0, "D": 4, "D_t": 0, "ADR": 28.7, "Rating": 0.45},
+              {"nickname": "Sa1nTy", "OpK-D": "1:0", "MKs": 1, "KAST": "85.7%", "1vsX": 0, "K": 4, "HS": 2, "A": 0, "A_f": 0, "D": 3, "D_t": 0, "ADR": 57.1, "Rating": 0.73}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tournament": "ESEA Advanced Season 53 Europe",
+      "date": "2025-06-04",
+      "time": "20:00",
+      "teams": ["AMKAL", "BAKS"],
+      "score": "2-0",
+      "overall": {
+        "team_stats": {
+          "score": 0,
+          "team_rating": 0.95,
+          "first_kills": 22,
+          "clutches_won": 2
+        },
+        "players": {
+          "both": [
+            {"nickname": "Sa1nTy", "OpK-D": "5:1", "MKs": 7, "KAST": "80.4%", "1vsX": 0, "K": 34, "HS": 23, "A": 11, "A_f": 1, "D": 33, "D_t": 7, "ADR": 81.0, "Rating": 1.11},
+            {"nickname": "MrTrelog", "OpK-D": "3:0", "MKs": 9, "KAST": "76.1%", "1vsX": 1, "K": 32, "HS": 17, "A": 12, "A_f": 3, "D": 31, "D_t": 8, "ADR": 76.5, "Rating": 1.10},
+            {"nickname": "Due1yant", "OpK-D": "8:8", "MKs": 10, "KAST": "58.7%", "1vsX": 0, "K": 31, "HS": 13, "A": 12, "A_f": 0, "D": 35, "D_t": 15, "ADR": 80.8, "Rating": 0.96},
+            {"nickname": "swetsi", "OpK-D": "5:10", "MKs": 7, "KAST": "60.9%", "1vsX": 0, "K": 26, "HS": 7, "A": 7, "A_f": 0, "D": 36, "D_t": 4, "ADR": 60.0, "Rating": 0.86},
+            {"nickname": "GREATEST", "OpK-D": "1:5", "MKs": 4, "KAST": "67.4%", "1vsX": 0, "K": 21, "HS": 14, "A": 8, "A_f": 2, "D": 35, "D_t": 8, "ADR": 59.0, "Rating": 0.70}
+          ],
+          "t": [
+            {"nickname": "Sa1nTy", "OpK-D": "0:0", "MKs": 1, "KAST": "80.0%", "1vsX": 0, "K": 10, "HS": 8, "A": 5, "A_f": 0, "D": 14, "D_t": 4, "ADR": 60.5, "Rating": 0.95},
+            {"nickname": "MrTrelog", "OpK-D": "2:0", "MKs": 3, "KAST": "65.0%", "1vsX": 1, "K": 12, "HS": 4, "A": 7, "A_f": 1, "D": 15, "D_t": 4, "ADR": 68.6, "Rating": 1.04},
+            {"nickname": "Due1yant", "OpK-D": "6:5", "MKs": 4, "KAST": "55.0%", "1vsX": 0, "K": 15, "HS": 8, "A": 4, "A_f": 0, "D": 16, "D_t": 4, "ADR": 84.2, "Rating": 1.15},
+            {"nickname": "swetsi", "OpK-D": "2:3", "MKs": 4, "KAST": "80.0%", "1vsX": 0, "K": 15, "HS": 4, "A": 3, "A_f": 0, "D": 14, "D_t": 4, "ADR": 81.0, "Rating": 1.25},
+            {"nickname": "GREATEST", "OpK-D": "0:2", "MKs": 2, "KAST": "75.0%", "1vsX": 0, "K": 11, "HS": 10, "A": 0, "A_f": 0, "D": 15, "D_t": 5, "ADR": 58.3, "Rating": 0.88}
+          ],
+          "ct": [
+            {"nickname": "Sa1nTy", "OpK-D": "5:1", "MKs": 6, "KAST": "80.8%", "1vsX": 0, "K": 24, "HS": 15, "A": 6, "A_f": 1, "D": 19, "D_t": 3, "ADR": 96.8, "Rating": 1.24},
+            {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 6, "KAST": "84.6%", "1vsX": 0, "K": 20, "HS": 13, "A": 5, "A_f": 2, "D": 16, "D_t": 4, "ADR": 82.5, "Rating": 1.14},
+            {"nickname": "Due1yant", "OpK-D": "2:3", "MKs": 6, "KAST": "61.5%", "1vsX": 0, "K": 16, "HS": 5, "A": 8, "A_f": 0, "D": 19, "D_t": 11, "ADR": 78.2, "Rating": 0.81},
+            {"nickname": "swetsi", "OpK-D": "3:7", "MKs": 3, "KAST": "46.2%", "1vsX": 0, "K": 11, "HS": 3, "A": 4, "A_f": 0, "D": 22, "D_t": 0, "ADR": 43.8, "Rating": 0.57},
+            {"nickname": "GREATEST", "OpK-D": "1:3", "MKs": 1, "KAST": "61.5%", "1vsX": 0, "K": 10, "HS": 4, "A": 8, "A_f": 2, "D": 20, "D_t": 3, "ADR": 59.5, "Rating": 0.57}
+          ]
+        }
+      },
+      "maps": [
+        {
+          "name": "Inferno",
+          "score": "13-4",
+          "breakdown": {"total": "13:4", "halves": ["9:3", "4:1"]},
+          "team_stats": {
+            "team_rating": 0.82,
+            "first_kills": 10,
+            "clutches_won": 1
+          },
+          "players": {
+            "both": [
+              {"nickname": "MrTrelog", "OpK-D": "2:0", "MKs": 4, "KAST": "70.6%", "1vsX": 1, "K": 13, "HS": 8, "A": 7, "A_f": 1, "D": 11, "D_t": 2, "ADR": 99.1, "Rating": 1.24},
+              {"nickname": "Sa1nTy", "OpK-D": "1:0", "MKs": 3, "KAST": "76.5%", "1vsX": 0, "K": 12, "HS": 6, "A": 2, "A_f": 1, "D": 14, "D_t": 5, "ADR": 75.4, "Rating": 0.90},
+              {"nickname": "swetsi", "OpK-D": "3:3", "MKs": 3, "KAST": "52.9%", "1vsX": 0, "K": 10, "HS": 4, "A": 4, "A_f": 0, "D": 14, "D_t": 2, "ADR": 57.8, "Rating": 0.75},
+              {"nickname": "Due1yant", "OpK-D": "4:3", "MKs": 2, "KAST": "52.9%", "1vsX": 0, "K": 8, "HS": 5, "A": 1, "A_f": 0, "D": 15, "D_t": 4, "ADR": 55.1, "Rating": 0.64},
+              {"nickname": "GREATEST", "OpK-D": "0:1", "MKs": 2, "KAST": "52.9%", "1vsX": 0, "K": 8, "HS": 5, "A": 4, "A_f": 1, "D": 16, "D_t": 4, "ADR": 62.5, "Rating": 0.58}
+            ],
+            "t": [
+              {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 1, "KAST": "60.0%", "1vsX": 1, "K": 4, "HS": 2, "A": 2, "A_f": 0, "D": 4, "D_t": 0, "ADR": 86.2, "Rating": 1.27},
+              {"nickname": "Sa1nTy", "OpK-D": "0:0", "MKs": 0, "KAST": "80.0%", "1vsX": 0, "K": 1, "HS": 1, "A": 1, "A_f": 0, "D": 5, "D_t": 0, "ADR": 49.2, "Rating": 0.69},
+              {"nickname": "swetsi", "OpK-D": "1:0", "MKs": 1, "KAST": "60.0%", "1vsX": 0, "K": 3, "HS": 0, "A": 2, "A_f": 0, "D": 5, "D_t": 0, "ADR": 70.6, "Rating": 0.96},
+              {"nickname": "Due1yant", "OpK-D": "2:1", "MKs": 1, "KAST": "40.0%", "1vsX": 0, "K": 3, "HS": 2, "A": 0, "A_f": 0, "D": 5, "D_t": 1, "ADR": 42.0, "Rating": 0.73},
+              {"nickname": "GREATEST", "OpK-D": "0:0", "MKs": 2, "KAST": "60.0%", "1vsX": 0, "K": 5, "HS": 4, "A": 0, "A_f": 0, "D": 5, "D_t": 0, "ADR": 105.0, "Rating": 1.03}
+            ],
+            "ct": [
+              {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 3, "KAST": "75.0%", "1vsX": 0, "K": 9, "HS": 6, "A": 5, "A_f": 1, "D": 7, "D_t": 2, "ADR": 104.4, "Rating": 1.23},
+              {"nickname": "Sa1nTy", "OpK-D": "1:0", "MKs": 3, "KAST": "75.0%", "1vsX": 0, "K": 11, "HS": 5, "A": 1, "A_f": 1, "D": 9, "D_t": 5, "ADR": 86.3, "Rating": 0.99},
+              {"nickname": "swetsi", "OpK-D": "2:3", "MKs": 2, "KAST": "50.0%", "1vsX": 0, "K": 7, "HS": 3, "A": 2, "A_f": 0, "D": 9, "D_t": 2, "ADR": 52.5, "Rating": 0.66},
+              {"nickname": "Due1yant", "OpK-D": "2:2", "MKs": 1, "KAST": "58.3%", "1vsX": 0, "K": 5, "HS": 1, "A": 1, "A_f": 0, "D": 10, "D_t": 3, "ADR": 60.6, "Rating": 0.61},
+              {"nickname": "GREATEST", "OpK-D": "0:1", "MKs": 0, "KAST": "50.0%", "1vsX": 0, "K": 3, "HS": 4, "A": 4, "A_f": 1, "D": 11, "D_t": 4, "ADR": 44.8, "Rating": 0.39}
+            ]
+          }
+        },
+        {
+          "name": "Dust2",
+          "score": "16-13",
+          "breakdown": {"total": "16:13", "halves": ["7:5", "5:7", "4:1"]},
+          "team_stats": {
+            "team_rating": 1.04,
+            "first_kills": 12,
+            "clutches_won": 1
+          },
+          "players": {
+            "both": [
+              {"nickname": "Sa1nTy", "OpK-D": "4:1", "MKs": 4, "KAST": "82.8%", "1vsX": 0, "K": 22, "HS": 17, "A": 9, "A_f": 0, "D": 19, "D_t": 2, "ADR": 84.3, "Rating": 1.24},
+              {"nickname": "Due1yant", "OpK-D": "4:5", "MKs": 8, "KAST": "62.1%", "1vsX": 0, "K": 23, "HS": 8, "A": 11, "A_f": 0, "D": 22, "D_t": 0, "ADR": 95.9, "Rating": 1.16},
+              {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 5, "KAST": "79.3%", "1vsX": 0, "K": 19, "HS": 9, "A": 5, "A_f": 0, "D": 20, "D_t": 6, "ADR": 63.2, "Rating": 1.03},
+              {"nickname": "swetsi", "OpK-D": "2:7", "MKs": 4, "KAST": "65.5%", "1vsX": 1, "K": 16, "HS": 3, "A": 3, "A_f": 0, "D": 19, "D_t": 2, "ADR": 61.2, "Rating": 0.94},
+              {"nickname": "GREATEST", "OpK-D": "1:4", "MKs": 2, "KAST": "75.9%", "1vsX": 0, "K": 13, "HS": 9, "A": 4, "A_f": 1, "D": 21, "D_t": 7, "ADR": 56.9, "Rating": 0.80}
+            ],
+            "t": [
+              {"nickname": "Sa1nTy", "OpK-D": "0:0", "MKs": 1, "KAST": "80.0%", "1vsX": 0, "K": 9, "HS": 7, "A": 4, "A_f": 0, "D": 9, "D_t": 1, "ADR": 64.2, "Rating": 1.04},
+              {"nickname": "Due1yant", "OpK-D": "4:4", "MKs": 3, "KAST": "60.0%", "1vsX": 0, "K": 12, "HS": 6, "A": 4, "A_f": 0, "D": 11, "D_t": 0, "ADR": 98.2, "Rating": 1.30},
+              {"nickname": "MrTrelog", "OpK-D": "1:0", "MKs": 2, "KAST": "66.7%", "1vsX": 0, "K": 8, "HS": 2, "A": 5, "A_f": 0, "D": 11, "D_t": 4, "ADR": 62.7, "Rating": 0.97},
+              {"nickname": "swetsi", "OpK-D": "1:3", "MKs": 3, "KAST": "86.7%", "1vsX": 0, "K": 12, "HS": 3, "A": 1, "A_f": 0, "D": 9, "D_t": 2, "ADR": 84.4, "Rating": 1.36},
+              {"nickname": "GREATEST", "OpK-D": "0:2", "MKs": 0, "KAST": "60.0%", "1vsX": 0, "K": 6, "HS": 6, "A": 0, "A_f": 0, "D": 10, "D_t": 5, "ADR": 42.7, "Rating": 0.86}
+            ],
+            "ct": [
+              {"nickname": "Sa1nTy", "OpK-D": "4:1", "MKs": 3, "KAST": "85.7%", "1vsX": 0, "K": 13, "HS": 10, "A": 5, "A_f": 0, "D": 10, "D_t": 1, "ADR": 105.9, "Rating": 1.46},
+              {"nickname": "Due1yant", "OpK-D": "0:1", "MKs": 5, "KAST": "64.3%", "1vsX": 0, "K": 11, "HS": 2, "A": 7, "A_f": 0, "D": 11, "D_t": 0, "ADR": 93.4, "Rating": 1.00},
+              {"nickname": "MrTrelog", "OpK-D": "0:0", "MKs": 3, "KAST": "92.9%", "1vsX": 0, "K": 11, "HS": 7, "A": 0, "A_f": 0, "D": 9, "D_t": 2, "ADR": 63.8, "Rating": 1.09},
+              {"nickname": "swetsi", "OpK-D": "1:4", "MKs": 1, "KAST": "42.9%", "1vsX": 0, "K": 4, "HS": 0, "A": 2, "A_f": 0, "D": 10, "D_t": 2, "ADR": 36.4, "Rating": 0.49},
+              {"nickname": "GREATEST", "OpK-D": "1:2", "MKs": 1, "KAST": "71.4%", "1vsX": 0, "K": 7, "HS": 3, "A": 4, "A_f": 1, "D": 11, "D_t": 2, "ADR": 72.1, "Rating": 0.75}
+            ]
+          }
+        }
+      ]
+    }
+  ]
+} 
